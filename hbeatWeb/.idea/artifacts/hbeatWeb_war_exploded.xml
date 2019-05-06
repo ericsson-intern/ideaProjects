@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="hbeatWeb:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/hbeatWeb_war_exploded</output-path>
+    <root id="archive" name="hbeatWeb_war exploded.war">
+      <element id="javaee-facet-resources" facet="hbeatWeb/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="hbeatWeb" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
