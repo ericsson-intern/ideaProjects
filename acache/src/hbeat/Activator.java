@@ -19,7 +19,7 @@ public class Activator implements BundleActivator {
 //        remote.startSyncThread();
 
 
-        System.out.println("Pulkittd asdais ddjindaa");
+        System.out.println("Pulkittd asdais dddjindaa");
 
 
 
